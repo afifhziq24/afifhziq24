@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/afifhziq24?logo=github&style=for-th
   <a href="https://www.instagram.com/afif_hzz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="discordapp.com/users/46ahz" target="_blank">
+  <a href="discordapp.com/channels/AhZ04_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="afifhziq24@gmail.com" target="_blank">

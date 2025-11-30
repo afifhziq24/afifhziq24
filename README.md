@@ -1,15 +1,34 @@
 こんにちは ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)　Afif Haziqです
-====================================================================================================================================
+-------------------------------
 
-ソフトウェア工学の学生です
--------------
+ソフトウェア工学の学生で、今Malaysia-Japan International Institute of Technology(MJIIT)で勉強してます。大学3年生です。
 
-今Malaysia-Japan International Institute of Technology(MJIIT),　Universiti Teknologi Malaysia Kuala Lumpur (UTMKL)でソフトウェア工学を勉強しています。
-- 🌍 マレーシア出身でいつか日本で働きたいと思います
-- 🧠 大学の勉強しながらも日本語も勉強します
-- ✉️  メールでのお問い合わせはこちらへ [afifhziq24@gmail.com](mailto:afifhziq24@gmail.com)
-- ⚡ 読書とゲームが好きです。音楽も聴きます
-- 🤝 面白いプロジェクトがあれば、コラボさせていただきます、一緒にプロジェクト造りましょう
+⚡興味
+----
+WEB開発：WEB開発に興味があって、いろいろ勉強してます。
+
+日本語音楽：ボーカロイドとJPOPが好きです。特にヨルシカの曲です。
+
+読書：今日本語勉強するために、好きなアニメのラノベをたくさん読んでます。
+
+ゲーム：ゲームをすることも好きだから、ゲーム開発。
+
+🌱勉強中
+-----
+<img align="right" src="https://preview.redd.it/when-you-accidentally-say-swag-song-instead-of-swan-v0-174yokgu7l0g1.jpeg?width=640&crop=smart&auto=webp&s=a647fab0e889913dfa2680421f6d5eab0dc8a678" style="width: 250px;" />
+
+<div "margin-right: 320px;">
+  <p>HTML/CSS/JS</p>
+  <p>PHP</p>
+  <p>JAVAとSPRINGフレムワーク</p>
+  </div>
+  
+<div style="clear: both;"></div>
+📫ポートフォリオはこちら
+
+✉️メールでのお問い合わせはこちら [afifhziq24@gmail.com](mailto:afifhziq24@gmail.com)
+
+🤝面白いプロジェクトがあれば、コラボさせていただきます、一緒にプロジェクト造りましょう
 
 <a href="https://www.github.com/afifhziq24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/afifhziq24?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
@@ -27,6 +46,8 @@ src="https://img.shields.io/github/followers/afifhziq24?logo=github&style=for-th
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 <!--
 **afifhziq24/afifhziq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -16,7 +16,7 @@ WEB開発：WEB開発に興味があって、いろいろ勉強してます。
 🌱勉強中
 -----
 <img align="right" src="https://preview.redd.it/when-you-accidentally-say-swag-song-instead-of-swan-v0-174yokgu7l0g1.jpeg?width=640&crop=smart&auto=webp&s=a647fab0e889913dfa2680421f6d5eab0dc8a678" style="width: 250px;" />
-
+<img align="right" src="https://line-17.sakura.ne.jp/line/stamp/detail_40/a1192999/006.png" style="width: 160px;" />
 <div "margin-right: 320px;">
   <p>HTML/CSS/JS</p>
   <p>PHP</p>

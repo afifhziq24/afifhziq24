@@ -44,6 +44,24 @@ src="https://img.shields.io/github/followers/afifhziq24?logo=github&style=for-th
   </a>
 </div>
 
+<p align="center">
+<a href="https://github.com/afifhziq24">
+  <img src="https://github-readme-stats.vercel.app/api?username=afifhziq24&show_icons=true&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=a855f7&bg_color=171717&hide_border=true" alt="afifhziq24's GitHub stats" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/afifhziq24">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifhziq24&stroke=14b8a6&background=171717&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/afifhziq24">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifhziq24&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=a855f7&bg_color=171717&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
+</p>
+
 ###
 <!--
 **afifhziq24/afifhziq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,8 +15,6 @@ WEB開発：WEB開発に興味があって、いろいろ勉強してます。
 
 🌱勉強中
 -----
-<img align="right" src="https://preview.redd.it/when-you-accidentally-say-swag-song-instead-of-swan-v0-174yokgu7l0g1.jpeg?width=640&crop=smart&auto=webp&s=a647fab0e889913dfa2680421f6d5eab0dc8a678" style="width: 250px;" />
-<img align="right" src="https://line-17.sakura.ne.jp/line/stamp/detail_40/a1192999/006.png" style="width: 160px;" />
 <div "margin-right: 320px;">
   <p>HTML/CSS/JS</p>
   <p>PHP</p>
@@ -39,27 +37,27 @@ src="https://img.shields.io/github/followers/afifhziq24?logo=github&style=for-th
   <a href="afifhziq24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadafifhaziq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 <p align="center">
-<a href="https://github.com/afifhziq24">
-  <img src="https://github-readme-stats.vercel.app/api?username=afifhziq24&show_icons=true&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=a855f7&bg_color=171717&hide_border=true" alt="afifhziq24's GitHub stats" />
-</a>
+  <a href="https://github.com/afifhziq24">
+    <img src="https://github-readme-stats.vercel.app/api?username=afifhziq24&show_icons=true&count_private=false&title_color=ec4899&text_color=14b8a6&icon_color=a855f7&bg_color=171717&hide_border=true" alt="afifhziq24's GitHub stats" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/afifhziq24">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifhziq24&stroke=14b8a6&background=171717&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
-</a>
+  <a href="https://github.com/afifhziq24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifhziq24&stroke=14b8a6&background=171717&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/afifhziq24">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifhziq24&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=a855f7&bg_color=171717&hide_border=true&layout=compact" alt="Top Languages" />
-</a>
+  <a href="https://github.com/afifhziq24">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifhziq24&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=a855f7&bg_color=171717&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
 ###

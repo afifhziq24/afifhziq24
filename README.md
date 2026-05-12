@@ -1,10 +1,63 @@
-こんにちは、Afif Haziqです ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)　
--------------------------------
-🌏 拠点：マレーシア | 日本での就職を目指しています
-🎯 学習内容：Web開発（HTML, CSS, JS, React, Python）
-🗾 日本語能力試験（JLPT）：N1
-📫 [afifhziq24@gmail.com / https://www.linkedin.com/in/muhammadafifhaziq/]
+<h1 align="center">Hi, I'm Afif Haziq 👋</h1>
 
+<p align="center">
+  Full-stack developer in training &nbsp;|&nbsp; JavaScript & C++ &nbsp;|&nbsp; 日本語 N1
+  <br/>
+  Based in Malaysia &nbsp;·&nbsp; Open to opportunities in Japan 🇯🇵
+</p>
+
+---
+
+### About me / 自己紹介
+
+I'm a developer building toward a full-stack skill set — currently focused on frontend (HTML, CSS, JavaScript, Bootstrap, React), with a background in C++. I'm also exploring backend development, Python for data, and mobile apps.
+
+My goal is to work as an engineer in Japan. I hold JLPT N1 and am actively building projects to grow my portfolio.
+
+---
+
+### Currently learning / 学習中
+
+| Area | Technologies |
+|---|---|
+| Frontend | HTML · CSS · Bootstrap · JavaScript |
+| Backend | Node.js *(coming soon)* |
+| Data | C++ . Python *(coming soon)* |
+| Tools | Git · GitHub · VS Code |
+
+---
+
+### Languages / 言語
+
+- 🇲🇾 Malay — Native
+- 🇬🇧 English — Fluent
+- 🇯🇵 Japanese — JLPT N1
+
+### Programming
+
+- JavaScript (comfortable)
+- C++ (comfortable)
+- HTML / CSS (comfortable)
+- Python (learning)
+- Dart (learning)
+
+---
+
+### Projects / プロジェクト
+
+> Projects will appear here as I build them. Check back soon.
+
+---
+
+### Connect / 連絡先
+
+[![GitHub](https://img.shields.io/badge/GitHub-afifhziq24-181717?style=flat&logo=github)](https://github.com/afifhziq24)
+
+---
+
+<p align="center">
+  <sub>This profile is a work in progress — just like me.</sub>
+</p>
 
 ###
 <!--

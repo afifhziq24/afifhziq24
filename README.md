@@ -2,19 +2,20 @@
 
 <p align="center">
   Full-stack developer in training &nbsp;|&nbsp; JavaScript & C++ &nbsp;|&nbsp; 日本語 N1
-  <br/>
-  Based in Malaysia &nbsp;·&nbsp; Open to opportunities in Japan 🇯🇵
+  <br/><!--
+  Based in Malaysia &nbsp;·&nbsp; Open to opportunities in Japan 🇯🇵 -->
 </p>
 
----
 
 ### About me / 自己紹介
 
-I'm a developer building toward a full-stack skill set — currently focused on frontend (HTML, CSS, JavaScript, Bootstrap, React), with a background in C++. I'm also exploring backend development, Python for data, and mobile apps.
+I'm a 3rd year Software Engineering Student at Universiti Teknologi Malaysia building toward a full-stack skill set — currently focused on frontend (HTML, CSS, JavaScript, Bootstrap, React), with a background in C++. I'm also exploring backend development, Python for data, and mobile apps.
 
 My goal is to work as an engineer in Japan. I hold JLPT N1 and am actively building projects to grow my portfolio.
 
----
+```text
+Currently working on: Final Year Project 
+```
 
 ### Currently learning / 学習中
 
@@ -25,7 +26,6 @@ My goal is to work as an engineer in Japan. I hold JLPT N1 and am actively build
 | Data | C++ . Python *(coming soon)* |
 | Tools | Git · GitHub · VS Code |
 
----
 
 ### Languages / 言語
 
@@ -41,22 +41,28 @@ My goal is to work as an engineer in Japan. I hold JLPT N1 and am actively build
 - Python (learning)
 - Dart (learning)
 
----
 
 ### Projects / プロジェクト
 
 > Projects will appear here as I build them. Check back soon.
 
----
 
 ### Connect / 連絡先
 
-[![GitHub](https://img.shields.io/badge/GitHub-afifhziq24-181717?style=flat&logo=github)](https://github.com/afifhziq24)
-
----
+<div align="center">
+  <a href="mailto:afifhziq24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammadafifhaziq/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/afif_hzz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"  />
+  </a>
+</div>
 
 <p align="center">
-  <sub>This profile is a work in progress — just like me.</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifhziq24" />
 </p>
 
 ###

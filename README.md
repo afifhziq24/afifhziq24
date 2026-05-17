@@ -44,7 +44,8 @@ Currently working on: Final Year Project
 
 ### Projects / プロジェクト
 
-> Projects will appear here as I build them. Check back soon.
+> https://github.com/afifhziq24/kanji_flashcard
+> https://github.com/afifhziq24/portfolio-v1
 
 
 ### Connect / 連絡先

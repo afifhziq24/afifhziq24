@@ -41,13 +41,11 @@ Currently working on: Final Year Project
 - Python (learning)
 - Dart (learning)
 
+### 📌 Featured Repositories / プロジェクト
 
-### Projects / プロジェクト
+[![kanji_flashcard](https://github-readme-stats-alpha.vercel.app/api/pin/?username=afifhziq24&repo=kanji_flashcard&theme=github_dark)](https://github.com/afifhziq24/kanji_flashcard)
 
-
-[![kanji_flashcard](https://readme-stats-github.pages.dev/api/repo?username=afifhziq24&repo=kanji_flashcard&theme=github_dark)](https://github.com/afifhziq24/kanji_flashcard)
-
-[![portfolio-v1](https://readme-stats-github.pages.dev/api/repo?username=afifhziq24&repo=portfolio-v1&theme=github_dark)](https://github.com/afifhziq24/portfolio-v1)
+[![portfolio-v1](https://github-readme-stats-alpha.vercel.app/api/pin/?username=afifhziq24&repo=portfolio-v1&theme=github_dark)](https://github.com/afifhziq24/portfolio-v1)
 
 
 ### Connect / 連絡先
@@ -64,8 +62,14 @@ Currently working on: Final Year Project
   </a>
 </div>
 
+### 📊 GitHub Statistics / 統計データ
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifhziq24" />
+  <a href="https://github.com/afifhziq24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afifhziq24&theme=github-dark-orange" alt="afifhziq24 GitHub Streak" height="195" />
+  </a>
+  <a href="https://github.com/afifhziq24">
+    <img src="https://github-readme-stats-alpha.vercel.app/api?username=afifhziq24&show_icons=true&theme=github_dark" alt="afifhziq24 GitHub Stats" height="195" />
+  </a>
 </p>
 
 ###

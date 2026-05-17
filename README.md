@@ -44,8 +44,10 @@ Currently working on: Final Year Project
 
 ### Projects / プロジェクト
 
-> https://github.com/afifhziq24/kanji_flashcard
-> https://github.com/afifhziq24/portfolio-v1
+
+[![kanji_flashcard](https://readme-stats-github.pages.dev/api/repo?username=afifhziq24&repo=kanji_flashcard&theme=github_dark)](https://github.com/afifhziq24/kanji_flashcard)
+
+[![portfolio-v1](https://readme-stats-github.pages.dev/api/repo?username=afifhziq24&repo=portfolio-v1&theme=github_dark)](https://github.com/afifhziq24/portfolio-v1)
 
 
 ### Connect / 連絡先

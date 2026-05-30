@@ -9,7 +9,7 @@
 
 ### About me / 自己紹介
 
-I'm a 3rd year Software Engineering Student at Universiti Teknologi Malaysia building toward a full-stack skill set — currently focused on frontend (HTML, CSS, JavaScript, Vue.js, React), with a background in C++. I'm also exploring backend development, Python for data, and mobile apps.
+I'm a 3rd year Software Engineering Student at Universiti Teknologi Malaysia building toward a full-stack skill set — currently focused on frontend (HTML, CSS, JavaScript, Vue.js, React), with a background in C++. I'm also exploring backend development, Python for data, mobile apps, and docker.
 
 My goal is to work as an engineer in Japan. I hold JLPT N1 and am actively building projects to grow my portfolio.
 

@@ -21,8 +21,8 @@ Currently working on: Final Year Project
 
 | Area | Technologies |
 |---|---|
-| Frontend | HTML · CSS · Bootstrap · JavaScript |
-| Backend | Node.js *(coming soon)* |
+| Frontend | HTML · CSS(Tailwind)· Bootstrap · JavaScript(Vue.js) ．Typescript |
+| Backend | Node.js(Express.js) |
 | Data | C++ . Python *(coming soon)* |
 | Tools | Git · GitHub · VS Code |
 
@@ -36,6 +36,7 @@ Currently working on: Final Year Project
 ### Programming
 
 - JavaScript (comfortable)
+- TypeScript (learning)
 - C++ (comfortable)
 - HTML / CSS (comfortable)
 - Python (learning)
